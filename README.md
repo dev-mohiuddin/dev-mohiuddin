@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohiuddin</h1>
-<img align="center" src="./assets/hello.png" alt="Hello GIF" width="250" />
+![Hello GIF](https://github.com/dev-mohiuddin/dev-mohiuddin/blob/main/assets/hello.png) 
 <h3 align="center">Welcome to my GitHub profile! 🚀  
 I’m a full-stack developer focused on building dynamic and user-friendly applications.  
 Feel free to explore my repositories and connect with me. Let’s create something amazing together! 🌟  
