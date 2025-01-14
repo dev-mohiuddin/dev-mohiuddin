@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohiuddin</h1>
+<img src="./assets/hello.png" alt="Hello GIF" width="300" />
 <h3 align="center">Welcome to my GitHub profile! 🚀  
-I'm a passionate **full-stack developer** with a strong focus on building dynamic, scalable, and user-friendly applications. My goal is to create impactful digital solutions that make life easier and more enjoyable for users.
-
-🌟 Here, you'll find a collection of projects that showcase my expertise in **React Native**, **Node.js**, and **real-time functionalities**. Whether it's developing social media apps, real-time chat systems, or automation tools, I'm always excited to tackle new challenges and push the boundaries of technology.
-
-Feel free to explore my repositories, fork any project that catches your eye, and don’t hesitate to connect with me if you want to collaborate or just have a chat! 😄
-
+I’m a full-stack developer focused on building dynamic and user-friendly applications.  
+Feel free to explore my repositories and connect with me. Let’s create something amazing together! 🌟  
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-mohiuddin&label=Profile%20views&color=0e75b6&style=flat" alt="dev-mohiuddin" /> </p>
